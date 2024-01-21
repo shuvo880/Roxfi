@@ -14,7 +14,7 @@ $ pkg install -y root-repo
 
 $ pkg install -y git tsu python wpa-supplicant pixiewps iw
 
-$ git clone https://github.com/piomrox/Roxfi
+$ git clone https://github.com/shuvo880/Roxfi
 
 $ cd Rox
 
