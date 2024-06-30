@@ -8,19 +8,19 @@
 
 ```bash
 
-$ apt update && apt upgrade
+ apt update && apt upgrade
 
-$ pkg install -y root-repo
+ pkg install -y root-repo
 
-$ pkg install -y git tsu python wpa-supplicant pixiewps iw
+ pkg install -y git tsu python wpa-supplicant pixiewps iw
 
-$ git clone https://github.com/shuvo880/Roxfi
+ git clone https://github.com/shuvo880/Roxfi
 
-$ cd Roxfi
+ cd Roxfi
 
-$ chmod +x roxfi.py
+ chmod +x roxfi.py
 
-$ sudo python roxfi.py --help
+ sudo python roxfi.py --help
 
 ```
 
