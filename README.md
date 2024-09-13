@@ -7,6 +7,10 @@
 ### Installation :
 
 ```bash
+pkg upgrade
+pkg update
+termux-setup-storage
+pkg install python3
 
  apt update && apt upgrade
 
